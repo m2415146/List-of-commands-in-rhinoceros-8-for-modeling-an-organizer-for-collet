@@ -33,6 +33,28 @@ I noticed that using these commands they solve many problems that I am currently
 20. Cap
 21. Cylinder
 
+    ### examples
+
+   type the name of the command in the command line 
+
+    **1. rectangular**  
+ choose a point on a screen here you will create your rectangular
+![Screenshot_171](https://github.com/user-attachments/assets/5cb0f5e3-45d9-4853-8751-ee4f7041d992)  
+
+enter lenght or just moving your mouse if you dont need certain size  
+
+![Screenshot_172](https://github.com/user-attachments/assets/3a803a8c-8e49-4055-85d1-66e94d813a27)  
+
+(by this step I enlarged the screen with the mouse wheel to better see the figure on the screen) enter widht or just moving your mouse if you dont need certain size
+
+![Screenshot_173](https://github.com/user-attachments/assets/814a8b33-6918-47fa-b41f-2cce74ffb964)
+
+
+
+https://github.com/user-attachments/assets/c2e0fde6-cc52-4a60-bb19-be7d35cb2a09
+
+
+    
 ## Export files  
 
 **.stl** for 3d printing parts (then in Orcaslicer)  
