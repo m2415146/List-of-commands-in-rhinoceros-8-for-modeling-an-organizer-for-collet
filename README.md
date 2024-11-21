@@ -35,6 +35,8 @@ I noticed that using these commands they solve many problems that I am currently
 
 ## Export files  
 
-.stl for 3d printing parts (then in Orcaslicer)
-.dxf for laser cut (then in CorelDraw)
-Also export in rhino format (for whole project file)
+**.stl** for 3d printing parts (then in Orcaslicer)  
+
+**.dxf** for laser cut (then in CorelDraw)  
+
+Also export in **rhino format** (for whole project file)
